@@ -23,6 +23,9 @@ import {
     jobit,
     tripguide,
     threejs,
+    imagify,
+    bg,
+    chatty,
   } from "../assets";
   
   export const navLinks = [
@@ -275,7 +278,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: imagify,
       source_code_link: "https://github.com/alitaysir/AI-text-to-image",
     },
     {
@@ -296,7 +299,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: tripguide,
+      image: chatty,
       source_code_link: "https://github.com/alitaysir/Chatty-Real-time-chat-app",
     },
     {
@@ -317,7 +320,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: jobit,
+      image: bg,
       source_code_link: "https://github.com/alitaysir/AI-Background-REMOVER",
     },
   ];
