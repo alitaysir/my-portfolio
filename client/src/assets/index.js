@@ -31,6 +31,10 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import taysir from "./taysir.jpg"
 
+import imagify from "./imagify.png"
+import bg from "./bg.png"
+import chatty from "./chatty.png"
+
 export {
   logo,
   backend,
@@ -60,5 +64,8 @@ export {
   carrent,
   jobit,
   tripguide,
-  taysir
+  taysir,
+  imagify,
+  bg,
+  chatty,
 };
